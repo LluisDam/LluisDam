@@ -21,7 +21,7 @@ Soy un profesional con perfil mixto: gestiono proyectos tecnológicos con metodo
 - 🔄 Experiencia con Scrum, Kanban y marcos ágiles
 - 💻 Conocimientos técnicos en Node.js, Python, Java, JavaScript
 - 🤝 Enfocado en la comunicación entre stakeholders y equipos técnicos
-- 📍 Cataluña, España
+- 📍  Mallorca, España
 - 🌱 Actualmente ampliando conocimientos en DevOps y Cloud
 
 ---
