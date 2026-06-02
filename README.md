@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Lluis Soberats 👋</h1>
 
-<h3 align="center">Project Manager con base técnica · Scrum Master · Desarrollo Web</h3>
+<h3 align="center">Project Manager con base técnica · Metodología Scrum · Desarrollo · Humanidades</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lluis-soberats">
