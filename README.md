@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un profesional con perfil mixto: gestiono proyectos tecnológicos con metodologías ágiles y tengo capacidad técnica para comunicarme de igual a igual con equipos de desarrollo.
+Soy un profesional con perfil mixto: gestion proyectos tecnológicos con metodologías ágiles y capacidad técnica para comunicarme de igual a igual con equipos de desarrollo siempre en la dirección empresarial, con asertividad y saber hacer.
 
 - 🎯 Especializado en gestión de proyectos web y APIs REST
 - 🔄 Experiencia con Scrum, Kanban y marcos ágiles
@@ -23,7 +23,7 @@ Soy un profesional con perfil mixto: gestiono proyectos tecnológicos con metodo
 - 🤝 Enfocado en la comunicación entre stakeholders y equipos técnicos
 - 📍  Mallorca, España
 - 🌱 Actualmente ampliando conocimientos en DevOps y Cloud
-- 📚 Formación en Filosofía y Letras, con especial énfasis en pensamiento crítico, análisis del discurso y humanidades
+- 📚 Formación en Filosofía y Letras, con especial énfasis en pensamiento crítico y lógica, análisis del discurso y humanidades
 
 ---
 
