@@ -55,6 +55,8 @@ Soy un profesional con perfil mixto: gestion proyectos tecnológicos con metodol
 | [ecommerce-db-sql](https://github.com/LluisDam/ecommerce-db-sql) | Base de datos relacional para e-commerce con vistas, procedimientos y triggers | SQL / MySQL |
 | [java-pong](https://github.com/LluisDam/java-pong) | Juego Pong clásico contra IA con Java Swing | Java |
 | [snake-game-js](https://github.com/LluisDam/snake-game-js) | Snake con efectos de partículas, dificultad progresiva y puntuación persistente | JavaScript / Canvas |
+| [book-manager-vbnet](https://github.com/LluisDam/book-manager-vbnet) | Gestor de libros con perfiles, muro de amigos y chat. Versión VB.NET | VB.NET / Windows Forms |
+| [book-manager-csharp](https://github.com/LluisDam/book-manager-csharp) | Gestor de libros con perfiles, muro de amigos y chat. Versión C# | C# / Windows Forms |
 
 ---
 
