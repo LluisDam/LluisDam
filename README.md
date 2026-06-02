@@ -23,6 +23,7 @@ Soy un profesional con perfil mixto: gestiono proyectos tecnológicos con metodo
 - 🤝 Enfocado en la comunicación entre stakeholders y equipos técnicos
 - 📍  Mallorca, España
 - 🌱 Actualmente ampliando conocimientos en DevOps y Cloud
+- 📚 Formación en Filosofía y Letras, con especial énfasis en pensamiento crítico, análisis del discurso y humanidades
 
 ---
 
