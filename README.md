@@ -52,7 +52,9 @@ Soy un profesional con perfil mixto: gestion proyectos tecnológicos con metodol
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
 | [servidor_web_node](https://github.com/LluisDam/servidor_web_node) | Servidor web REST con Node.js | JavaScript |
-| [Entorns-de-desenvolupament](https://github.com/LluisDam/Entorns-de-desenvolupament) | Configuración de entornos de desarrollo | DevOps / Linux |
+| [ecommerce-db-sql](https://github.com/LluisDam/ecommerce-db-sql) | Base de datos relacional para e-commerce con vistas, procedimientos y triggers | SQL / MySQL |
+| [java-pong](https://github.com/LluisDam/java-pong) | Juego Pong clásico contra IA con Java Swing | Java |
+| [snake-game-js](https://github.com/LluisDam/snake-game-js) | Snake con efectos de partículas, dificultad progresiva y puntuación persistente | JavaScript / Canvas |
 
 ---
 
