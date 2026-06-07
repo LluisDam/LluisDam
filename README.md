@@ -17,7 +17,7 @@
 
 Soy un profesional con perfil mixto: gestion proyectos tecnológicos con metodologías ágiles y capacidad técnica para comunicarme de igual a igual con equipos de desarrollo siempre en la dirección empresarial, con asertividad y saber hacer.
 
-- 🎯 Especializado en gestión de proyectos web y APIs REST
+- 🎯 Gestión de proyectos
 - 🔄 Experiencia con Scrum, Kanban y marcos ágiles
 - 💻 Conocimientos técnicos en Node.js, Python, Java, JavaScript
 - 🤝 Enfocado en la comunicación entre stakeholders y equipos técnicos
