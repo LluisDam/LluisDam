@@ -3,7 +3,7 @@
 <h3 align="center">Project Manager con base técnica · Metodología Scrum · Desarrollo · Humanidades</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/lluissoberats">
+  <a href="https://www.linkedin.com/in/lluissoberats/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:llsobi@gmail.com">
