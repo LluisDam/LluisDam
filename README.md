@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un profesional con perfil mixto: gestion proyectos tecnológicos con metodologías ágiles y capacidad técnica para comunicarme de igual a igual con equipos de desarrollo siempre en la dirección empresarial, con asertividad y saber hacer.
+Soy un profesional con perfil mixto: gestiono proyectos tecnológicos con metodologías ágiles y capacidad técnica para comunicarme de igual a igual con equipos de desarrollo siempre en la dirección empresarial, con asertividad y saber hacer.
 
 - 🎯 Gestión de proyectos
 - 🔄 Experiencia con Scrum, Kanban y marcos ágiles
